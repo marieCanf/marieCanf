@@ -1,4 +1,4 @@
-# Hi, I’m Canfyn Marie 👋
+# Hi, I’m Canfyn Marie ✨
 Civil Engineering student with a focus on Computer Science and Management, specializing in Artificial Intelligence and Decision Support at the Faculty of Engineering, University of Mons.
 
 ---
