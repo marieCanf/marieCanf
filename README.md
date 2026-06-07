@@ -13,7 +13,7 @@ Civil Engineering student with a focus on Computer Science and Management, speci
 
 ## 💻 Skills
 
-- **Programming:** Python, C++, Java, SQL
+- **Programming:** Python, C++, Java, SQL, HTML
 - **AI & Data Analysis:** Machine Learning, Decision Support, Optimization
 - **Other:** Project Management, Teamwork, Communication
 
